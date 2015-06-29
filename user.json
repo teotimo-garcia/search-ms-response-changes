@@ -1,0 +1,33 @@
+{
+    "found": 1,
+    "data": [
+        {
+            "id": "551ae6819f7f67c12589e94b",
+            "avatar": {
+                "original": "https://vixlet-dev.imgix.net/defaultprofile@2x.png",
+                "large": "https://vixlet-dev.imgix.net/defaultprofile@2x.png?fit=max&w=640&h=640&fmt=jpg",
+                "medium": "https://vixlet-dev.imgix.net/defaultprofile@2x.png?fit=max&w=320&h=320&fmt=jpg",
+                "small": "https://vixlet-dev.imgix.net/defaultprofile@2x.png?fit=max&w=128&h=128&fmt=jpg"
+            },
+            "counts": {
+                "likes": 0,
+                "shares": 0,
+                "comments": 0,
+                "following": 1,
+                "followers": 0,
+                "capsules": 0,
+                "publishedCapsules": 0,
+                "createdCapsules": 0
+            },
+            "firstName": "New",
+            "loggedDomains": [
+                "6",
+                "10"
+            ],
+            "type": "user",
+            "username": "newuser2"
+        }
+    ],
+    "total": 5,
+    "next": "/search/user?query=new&tag=&start=1&limit=1"
+}

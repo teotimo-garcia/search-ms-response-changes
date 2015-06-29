@@ -1,0 +1,33 @@
+{
+    "found": 1,
+    "data": [
+        {
+            "id": "55491f0c88fa802a5d02b6b7",
+            "cover": {
+                "original": "https://dj327dtem4g68.cloudfront.net/static/capsulecovers/6/user/slk_poweranimal.png",
+                "filename": "slk_poweranimal.png"
+            },
+            "creator": {
+                "id": "554916ca1a26c7f10bf85576",
+                "avatar": {
+                    "original": "https://dj327dtem4g68.cloudfront.net/static/avatar/user_large.png",
+                    "large": "https://dj327dtem4g68.cloudfront.net/static/avatar/user_large.png",
+                    "medium": "https://dj327dtem4g68.cloudfront.net/static/avatar/user_medium.png",
+                    "small": "https://dj327dtem4g68.cloudfront.net/static/avatar/user_small.png"
+                },
+                "username": "test2222"
+            },
+            "description": "ion for a long day at a very",
+            "domainId": 6,
+            "name": "Mine 4",
+            "statuses": {
+                "created": 1430855436051,
+                "updated": 1430925987282,
+                "unlocked": 1431265800000
+            },
+            "type": "capsule"
+        }
+    ],
+    "total": 3,
+    "next": "/search/capsule?query=days&tag=&start=1&limit=1"
+}
