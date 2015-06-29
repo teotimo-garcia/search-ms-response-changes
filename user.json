@@ -3,12 +3,19 @@
     "data": [
         {
             "id": "551ae6819f7f67c12589e94b",
+            "address": {
+                "city": "",
+                "stateProvince": "",
+                "zipPostalCode": "",
+                "country": ""
+            },
             "avatar": {
                 "original": "https://vixlet-dev.imgix.net/defaultprofile@2x.png",
                 "large": "https://vixlet-dev.imgix.net/defaultprofile@2x.png?fit=max&w=640&h=640&fmt=jpg",
                 "medium": "https://vixlet-dev.imgix.net/defaultprofile@2x.png?fit=max&w=320&h=320&fmt=jpg",
                 "small": "https://vixlet-dev.imgix.net/defaultprofile@2x.png?fit=max&w=128&h=128&fmt=jpg"
             },
+            "bio": "asdfasdfasdf",
             "counts": {
                 "likes": 0,
                 "shares": 0,
@@ -20,11 +27,17 @@
                 "createdCapsules": 0
             },
             "firstName": "New",
+            "gender": "M",
             "loggedDomains": [
                 "6",
                 "10"
             ],
+            "statuses": {
+                "created": 1427826284519,
+                "updated": 1432329857409
+            },
             "type": "user",
+            "userStatus": 1,
             "username": "newuser2"
         }
     ],

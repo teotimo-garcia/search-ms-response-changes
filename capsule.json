@@ -3,9 +3,14 @@
     "data": [
         {
             "id": "55491f0c88fa802a5d02b6b7",
+            "capsuleLevel": 4,
+            "contributable": "public",
             "cover": {
                 "original": "https://dj327dtem4g68.cloudfront.net/static/capsulecovers/6/user/slk_poweranimal.png",
                 "filename": "slk_poweranimal.png"
+            },
+            "counts": {
+                "subscribers": 0
             },
             "creator": {
                 "id": "554916ca1a26c7f10bf85576",
@@ -19,12 +24,16 @@
             },
             "description": "ion for a long day at a very",
             "domainId": 6,
+            "location": "Statesville, NC, United States",
             "name": "Mine 4",
+            "privacy": "public",
+            "status": 1,
             "statuses": {
                 "created": 1430855436051,
                 "updated": 1430925987282,
                 "unlocked": 1431265800000
             },
+            "tags": [],
             "type": "capsule"
         }
     ],
